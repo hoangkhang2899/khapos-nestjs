@@ -1,4 +1,4 @@
-import { BaseEntity } from 'src/entities/base.entity';
+import { BaseEntity } from 'src/interfaces/entities/base.entity';
 import { Column, Entity } from 'typeorm';
 
 @Entity('products')
